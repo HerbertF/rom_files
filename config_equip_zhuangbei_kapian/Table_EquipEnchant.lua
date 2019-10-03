@@ -1,3 +1,4 @@
+#TODO: 2019.10.3 
 Table_EquipEnchant = {
   [1] = {
     id = 1,
